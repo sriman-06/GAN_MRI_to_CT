@@ -19,9 +19,6 @@ This project implements a GAN-based image-to-image translation from **brain MRI 
 - Mean SSIM: **0.86**
 - Mean PSNR: **22.5 dB**
 
-## 🖼️ Sample Outputs
-*(Add sample before/after images here or Google Drive link)*
-
 ## 🚀 How to Run (on Colab)
 1. Upload the dataset to your Google Drive.
 2. Mount the drive and set the dataset path in the notebook.
